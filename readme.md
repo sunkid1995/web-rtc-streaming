@@ -5,7 +5,7 @@
     * Express, SocketIO, PeerJS
 
 ## Signal
-    * Read more [Peer](https://peerjs.com/)
+Read more [Peer](https://peerjs.com/)
 
 ## How to run
     **Run server**
