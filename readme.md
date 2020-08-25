@@ -2,7 +2,7 @@
     WebRTC api
 
 ## This project use
-    * Express, SocketIO
+    * Express, SocketIO, PeerJS
 
 ## Signal
     * Read more [Peer](https://peerjs.com/)
